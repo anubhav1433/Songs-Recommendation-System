@@ -6,14 +6,18 @@ This project is deployed using streamlit <a href="https://songs--recommendation-
 <h2>To view using streamlit</h2>
 <h4>Clone this Repository</h4>
 -> git clone https://github.com/anubhav1433/Songs-Recommendation-System
+<h4>Install the dependencies</h4>
+-> pip
 <h4>Run the following command in terminal</h4>
 -> streamlit run app.py
 <hr>
 <h2>To view the html page</h2>
 <h4>Clone this Repository</h4>
 -> git clone https://github.com/anubhav1433/Songs-Recommendation-System
+<h4>Install the dependencies</h4>
+-> pip
 <h4>Execution</h4>
--> Run the python page apps.py
+-> Run the python page apps.py<br/>
 -> Open your web browser by tapping the link http://localhost to view the website.
 <hr>
 Kindly input your valuable suggestions by creating a pull request.
